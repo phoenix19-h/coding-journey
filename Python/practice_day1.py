@@ -16,3 +16,10 @@ if choose=='-':
     print(num1-num2)
     
 # Question 3
+numbers = [10,45,3,99,12]
+largest=numbers[0]
+for i in numbers:
+    if i>largest:
+        largest=i
+print("The greatest number is", largest)
+        
