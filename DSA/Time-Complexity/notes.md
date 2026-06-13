@@ -24,3 +24,17 @@ print(i,j)
 
 Example:
 Binary Search
+
+# Day 1 DSA
+
+Topics Completed:
+- Time Complexity
+- Big O Notation
+- Constant Time O(1)
+- Linear Time O(n)
+- Quadratic Time O(n^2)
+- Logarithmic Time O(log n)
+- Linearithmic Time O(n log n)
+
+Next:
+Arrays
