@@ -28,6 +28,7 @@ Binary Search
 # Day 1 DSA
 
 Topics Completed:
+
 - Time Complexity
 - Big O Notation
 - Constant Time O(1)
