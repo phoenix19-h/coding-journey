@@ -19,3 +19,8 @@ Time Complexity of Array Operations
 | Search               | O(n)       |
 | Insert at end        | O(1)       |
 | Delete/Search remove | O(n)       |
+
+Find maximum → O(n)
+Find minimum → O(n)
+Reverse array → O(n)
+Sum elements → O(n)
